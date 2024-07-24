@@ -79,3 +79,16 @@ form button{
 form button:hover{
     background-color: #000;
 }
+
+
+@media screen and (max-width: 450px){
+    section{
+        margin: 0 80px;
+        padding: 10px 27px;
+    }
+
+    section h2{
+        font-size: 30px;
+        margin: 17px;
+    }
+}
